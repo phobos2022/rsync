@@ -22,4 +22,4 @@ echo "Step 4: Delete files on a remote host"
 $ssh_key $remote_machine "find $remote_dir/archive -mtime +7 -delete && ls -lah $remote_dir/archive"
 echo ""
 
-echo "Done_test1..."
+echo "Done_test11..."
